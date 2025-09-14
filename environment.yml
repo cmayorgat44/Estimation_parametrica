@@ -1,0 +1,14 @@
+name: DS
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - plotly
+  - jupyter
+  - seaborn
+  - openpyxl  
+  - matplotlib
+  - statsmodels
+  - scikit-learn
